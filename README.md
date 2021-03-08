@@ -1,3 +1,3 @@
-## 概要
-GitのGUI管理ツールとしてSourceTreeをインストールしました。
+## 概要  
+GitのGUI管理ツールとしてSourceTreeをインストールしました。  
 SourceTreeとGitHubの連携テストのためのリポジトリとなっています。
